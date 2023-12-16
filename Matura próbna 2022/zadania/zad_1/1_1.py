@@ -2,7 +2,7 @@ ile=0
 tablica = []
 najwiecej = 0
 
-with open('C:/Users/mkuba/OneDrive/Pulpit/Matury/Matura próbna 2023/dane/szachy.txt') as file:
+with open('C:/Users/mkuba/OneDrive/Pulpit/Matury/Matura próbna 2022/dane/szachy.txt') as file:
     ruchy = []
     
     for line in file:
